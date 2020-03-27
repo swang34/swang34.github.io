@@ -9,7 +9,7 @@ Finally, I published my very first post on my own website :) Something I've been
 终于有自己的网站啦，希望能有更多的时间来整理思绪和读书笔记，growing is a life long process. 
 
 猫咪大黑向你问好：
-![image](/assets/dahei.jpg)
+![大黑](/assets/dahei.JPG)
 
 My [LinkedIn][jekyll-docs]
 
