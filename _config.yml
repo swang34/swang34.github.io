@@ -30,6 +30,8 @@ github_username:  swang34
 theme: minima
 plugins:
   - jekyll-feed
+# Markdown
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
