@@ -10,7 +10,7 @@ Good question. I thought to myself, and then asahmed to find our that I couldn't
 ## Chapter 1: Causation vs Association ## 
 The infereces with causation are essentially "What If" quesitons. What will happen in the counterfatual world, had all users been treated versus all users not been treated? We won't know the "true" effect because we only have factual data, but we can make causal inference with factual data if we are willing to make certain assumptions. 
 
-![causation](/assets/causation.PNG)
+![causation](/assets/causation.png)
 
 Causation is the risk in the same population under 2 different treatment values $$a = 1$$ or  $$a = 0$$, while association is the risk in 2 subsets of population determined by the observed treatment value $$A = 1$$ or  $$A = 0$$
 
