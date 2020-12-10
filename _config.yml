@@ -33,7 +33,7 @@ plugins:
 # Markdown
 markdown: kramdown
 disqus:
-  shortname: Shijie'sBlog
+  shortname: https-swang34-github-io
 
 
 
