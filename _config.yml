@@ -32,6 +32,11 @@ plugins:
   - jekyll-feed
 # Markdown
 markdown: kramdown
+disqus:
+  shortname: Shijie'sBlog
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
