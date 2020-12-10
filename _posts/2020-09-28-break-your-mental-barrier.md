@@ -2,6 +2,7 @@
 layout: post
 title:  "DS的心理屏障"
 categories: blog
+comments: true
 ---
 
 ds这个工作，需要一颗坚强的心。
